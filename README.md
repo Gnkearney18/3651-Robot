@@ -40,3 +40,6 @@ This code is a skeleton for the code developed for this robot. This class is wha
 - Make supported library for this robot rather than a massive class with hundreds of lines
 - Better named functions - I mean there is some (a lot) of sloppy names in here
 - Dynamic mapping instead of hard coded
+
+## Other
+-Include writeup and 3D models in writeup and link to this project
