@@ -42,4 +42,4 @@ This code is a skeleton for the code developed for this robot. This class is wha
 - Dynamic mapping instead of hard coded
 
 ## Other
--Include writeup and 3D models in writeup and link to this project
+- Include writeup and 3D models in writeup and link to this project
